@@ -1,8 +1,12 @@
 # Railway Role Expansion
 
-Railway Role Expansion is a Factorio 2.0 mod derived from Optera's MIT-licensed mod Train & Fuel Overhaul / Train Overhaul.
+Railway Role Expansion is a Factorio 2.0 mod that makes railway logistics more intuitive while giving each class of rolling stock a distinct role.
 
-The goal is to make railway logistics easier to use while giving each train type a clearer operational role. It improves the baseline vanilla train experience and adds Industrial vehicles for short-distance, high-load service and Linehaul vehicles for high-speed long-distance mainline transport.
+It rebalances the vanilla train roster and introduces two specialized vehicle families: **Industrial** vehicles for heavy-duty, short-distance operations, and **Linehaul** vehicles for high-speed, long-distance transport.
+
+Vanilla trains remain a comfortable all-purpose choice, while the new vehicle classes allow you to optimize your railway network for different operational needs and playstyles.
+
+This mod is an independent Factorio 2.0 derivative of Optera's MIT-licensed **Train & Fuel Overhaul (Train Overhaul)**. The original fuel overhaul mechanics have been removed, with the focus shifted entirely to expanding and rebalancing trains and railway logistics.
 
 ## Main Features
 
@@ -99,9 +103,13 @@ The original copyright notice and MIT License text are retained in `License.md`.
 
 # Railway Role Expansion
 
-Railway Role Expansion は、Optera 氏の MIT ライセンス MOD「Train & Fuel Overhaul」をベースにした Factorio 2.0 向けの派生 MOD です。
+Railway Role Expansion は、Factorio 2.0 の鉄道輸送をより使いやすくし、車両ごとの役割を明確にすることを目的とした MOD です。
 
-鉄道そのものを扱いやすくしつつ、車両ごとの役割をより明確に分けることを目的としています。バニラ列車の基礎性能を調整し、重量物・短距離輸送向けの Industrial 系車両と、長距離・高速幹線輸送向けの Linehaul 系車両を追加します。
+バニラ車両全体の性能を見直しつつ、短距離・重量物輸送に特化した **Industrial** 系車両と、長距離・高速輸送に特化した **Linehaul** 系車両を追加します。
+
+バニラ車両だけでも快適に遊べるよう調整されていますが、用途に応じて車両を使い分けることで、より効率的で戦略的な鉄道ネットワークを構築できます。
+
+本 MOD は、Optera 氏の MIT ライセンス MOD「Train & Fuel Overhaul（Train Overhaul）」をベースに、Factorio 2.0 向けに再設計・拡張した派生 MOD です。元 MOD の燃料オーバーホール要素は削除し、列車車両と鉄道運用の拡張に特化しています。
 
 ## 主な変更
 
