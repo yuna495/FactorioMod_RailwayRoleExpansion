@@ -34,7 +34,7 @@ data:extend({
     {
       {type = "item", name = "locomotive", amount = 1},
       {type = "item", name = "advanced-circuit", amount = 20},
-      {type = "item", name = "efficiency-module", amount = 10}
+      {type = "item", name = "productivity-module", amount = 10}
     },
     results = {
       {type = "item", name = "rre-industrial-locomotive", amount = 1}
@@ -65,7 +65,7 @@ data:extend({
     ingredients =
     {
       {type = "item", name = "cargo-wagon", amount = 1},
-      {type = "item", name = "efficiency-module", amount = 5}
+      {type = "item", name = "productivity-module", amount = 5}
     },
     results = {
       {type = "item", name = "rre-industrial-cargo-wagon", amount = 1}
@@ -95,7 +95,7 @@ data:extend({
     ingredients =
     {
       {type = "item", name = "fluid-wagon", amount = 1},
-      {type = "item", name = "efficiency-module", amount = 5}
+      {type = "item", name = "productivity-module", amount = 5}
     },
     results = {
       {type = "item", name = "rre-industrial-fluid-wagon", amount = 1}
