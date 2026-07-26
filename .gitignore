@@ -1,0 +1,16 @@
+# Packaged mod exports
+*.zip
+TrainOverhaul_*.zip
+railway-role-expansion_*.zip
+
+# Local mod portal/export folders
+MODポータル用/
+MOD繝昴・繧ｿ繝ｫ逕ｨ/
+
+# Local Codex/agent metadata
+.agents/
+.codex/
+
+# Windows noise
+Thumbs.db
+Desktop.ini
