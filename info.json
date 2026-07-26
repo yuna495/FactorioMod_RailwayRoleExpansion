@@ -1,13 +1,14 @@
 {
   "name": "railway-role-expansion",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "title": "Railway Role Expansion",
   "author": "yuna495",
-  "description": "Independent fork of Train & Fuel Overhaul focused on additional locomotives and wagons with distinct railway roles.",
+  "description": "Rebalances vanilla trains and adds Industrial and Linehaul rolling stock with distinct railway roles. Based on Train Overhaul.",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
     "? elevated-rails",
     "? quality",
-    "? space-age"]
+    "? space-age"
+  ]
 }
